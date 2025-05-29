@@ -21,8 +21,7 @@
 
   <ul>
         <li>
-          🌱 I'm currently diving into <strong>React.js</strong>, <strong>Next.js</strong>, and{" "}
-          <strong>AWS Technologies</strong>
+          🌱 I'm currently diving into Cloud and Serverless Applications
         </li>
         <li>
           🎯 My goal is to become proficient in <strong>front-end development</strong>
