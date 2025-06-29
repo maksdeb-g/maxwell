@@ -102,11 +102,16 @@
     <img src="https://magicui.design/favicon.ico" alt="Magic UI" width="48" height="48" />
   </a>
 </p>
-      <hr />
-      <p align="center">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=maksdeb-g&show_icons=true&theme=radical"
-          alt="maksdeb-g stats"
-        />
-      </p>
+      
+   <hr />   
+<h2 align="center"> Profile Stats <h2/>
+<p align="center">
+  <a href="https://github.com/maksdeb-g">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maksdeb-g&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+<a> 
+    <a href="https://github.com/maksdeb-g"><img alt="Max Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maksdeb-g&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+</p>
     </div>
