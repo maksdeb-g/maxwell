@@ -10,59 +10,9 @@
       </div>
 
   <h1 align="center">Hi 👋, I'm Max!</h1>
-      <h3 align="center">A BSCS student from UP Mindanao</h3>
-          
-  <p align="center">
-      <img
-          src="https://komarev.com/ghpvc/?username=maksdeb-g&label=Profile%20views&color=0e75b6&style=flat"
-          alt="Profile views"
-        />
-      </p>
-
-  <ul>
-        <li>
-          🌱 I'm currently diving into Cloud and Serverless Applications
-        </li>
-        <li>
-          🎯 My goal is to become proficient in <strong>front-end development</strong>
-        </li>
-        <li>
-          ⚡ Fun fact: <strong>I can solve a Rubik's cube in under 15 seconds!</strong>
-        </li>
-      </ul>
-
-  <hr />
-
-  <h3 align="center">Connect with me:</h3>
-      <p align="center">
-        <a href="https://www.linkedin.com/in/mxdave/" target="_blank" rel="noreferrer">
-          <img
-            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LinkedIn"
-          />
-        </a>
-        <a href="https://facebook.com/maxwell.gazo" target="_blank" rel="noreferrer">
-          <img
-            src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-            alt="Facebook"
-          />
-        </a>
-        <a href="https://instagram.com/mxdave_" target="_blank" rel="noreferrer">
-          <img
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="Instagram"
-          />
-        </a>
-        <a href="https://discord.gg/debu#7764" target="_blank" rel="noreferrer">
-          <img
-            src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-            alt="Discord"
-          />
-        </a>
-      </p>
-
-  <hr />
-
+      <h3 align="center">A Computer Science student from University of the Philippines Mindanao</h3>
+      <h3 align="center">A frontend developer and Cloud enthusiast</h3>
+<hr/>
  <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -102,16 +52,44 @@
     <img src="https://magicui.design/favicon.ico" alt="Magic UI" width="48" height="48" />
   </a>
 </p>
+  <hr />
+   <h3 align="center">Connect with me:</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/mxdave/" target="_blank" rel="noreferrer">
+          <img
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn"
+          />
+        </a>
+        <a href="https://facebook.com/maxwell.gazo" target="_blank" rel="noreferrer">
+          <img
+            src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+            alt="Facebook"
+          />
+        </a>
+        <a href="https://instagram.com/mxdave_" target="_blank" rel="noreferrer">
+          <img
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+            alt="Instagram"
+          />
+        </a>
+        <a href="https://discord.gg/debu#7764" target="_blank" rel="noreferrer">
+          <img
+            src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+            alt="Discord"
+          />
+        </a>
+      </p>
+
       
-   <hr />   
 <h2 align="center"> Profile Stats <h2/>
+<p align="center">
+    <a href="https://github.com/maksdeb-g"><img alt="Max Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maksdeb-g&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+</p>
+      
 <p align="center">
   <a href="https://github.com/maksdeb-g">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maksdeb-g&theme=radical" alt="Al Siam's GitHub Contribution"/>
   </a>
-<a> 
-    <a href="https://github.com/maksdeb-g"><img alt="Max Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=maksdeb-g&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
 </p>
     </div>
