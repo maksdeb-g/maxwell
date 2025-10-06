@@ -10,8 +10,8 @@
       </div>
 
   <h1 align="center">Hi 👋, I'm Max!</h1>
-      <h3 align="center">A Computer Science student from University of the Philippines Mindanao</h3>
-      <h3 align="center">A frontend developer and Cloud enthusiast</h3>
+      <h3 align="center">A Computer Science Student from University of the Philippines Mindanao</h3>
+      <h3 align="center">A Frontend Developer and Cloud enthusiast</h3>
 <hr/>
  <h3 align="center">Languages and Tools:</h3>
 <p align="center">
