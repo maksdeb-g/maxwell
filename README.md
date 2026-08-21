@@ -46,10 +46,22 @@
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" />
   </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/favicon.ico" alt="shadcn/ui" width="48" height="48" />
+    <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" alt="shadcn/ui" width="48" height="48" />
   </a>
   <a href="https://magicui.design/" target="_blank" rel="noreferrer">
     <img src="https://magicui.design/favicon.ico" alt="Magic UI" width="48" height="48" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" width="48" height="48" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
+  </a>
+  <a href="https://hono.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/hono/E36002" alt="Hono.js" width="48" height="48" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" />
   </a>
 </p>
   <hr />
